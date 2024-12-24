@@ -68,3 +68,12 @@ Happy Coding! ❤️
 
 
 https://github.com/user-attachments/assets/141ca6fe-9ea5-4d9b-8dba-6a8b4d87ba1b
+
+
+
+
+
+
+
+![clariyo-output(image)](https://github.com/user-attachments/assets/e31583b2-4fb5-49df-a0a6-1ff773701859)
+
