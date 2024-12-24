@@ -63,10 +63,8 @@ Integrate with hospital databases for faster assistance. 🏥
 💻 Contributing
 Feel free to fork the repository and contribute! 😊
 
-Fork the project
-Create a branch
-Submit a pull request
-🛡️ License
-This project is licensed under the MIT License.
-
 Happy Coding! ❤️
+
+
+
+https://github.com/user-attachments/assets/141ca6fe-9ea5-4d9b-8dba-6a8b4d87ba1b
